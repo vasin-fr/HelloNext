@@ -1,1 +1,1 @@
-# Учебный проект на NextJS
+# Hi all. This is my test project on TypeScript and Next.js framework. This is where I'm going to consolidate my knowledge
